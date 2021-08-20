@@ -10,8 +10,8 @@
 package ArraysAndStrings;
 
 import java.util.*;
-
-public class ThreeSum {
+[NOT DONE]
+public class Q2ThreeSum {
 	
 	
 public List<List<Integer>> threeSum(int[] nums) {
