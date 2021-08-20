@@ -1,4 +1,4 @@
-package GoldmanSachsInterviewQues;
+package InterviewQues_GoldmanSachs;
 
 import java.util.Collections;
 import java.util.Comparator;

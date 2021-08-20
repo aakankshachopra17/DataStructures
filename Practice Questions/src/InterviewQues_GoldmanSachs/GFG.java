@@ -1,4 +1,4 @@
-package GoldmanSachsInterviewQues;
+package InterviewQues_GoldmanSachs;
 
 //Given an array of numbers, program to
 //arrange the numbers to form the

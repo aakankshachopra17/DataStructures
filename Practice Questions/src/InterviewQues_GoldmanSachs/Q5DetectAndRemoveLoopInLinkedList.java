@@ -1,4 +1,4 @@
-package GoldmanSachsInterviewQues;
+package InterviewQues_GoldmanSachs;
 [NOT DONE]
 		
 	//	https://www.geeksforgeeks.org/detect-and-remove-loop-in-a-linked-list/

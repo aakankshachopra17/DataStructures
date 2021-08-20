@@ -1,4 +1,4 @@
-package GoldmanSachsInterviewQues;
+package InterviewQues_GoldmanSachs;
 /*
 Input: s = "111000"
 Output: 2

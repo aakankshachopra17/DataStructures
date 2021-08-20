@@ -1,4 +1,4 @@
-package GoogleInterviewQues;
+package InterviewQues_Google;
 
 //Given a non-empty array of digits representing a non-negative integer, plus one to the integer.
 //

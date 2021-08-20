@@ -1,4 +1,4 @@
-package GoldmanSachsInterviewQues;
+package InterviewQues_GoldmanSachs;
 
 import java.util.HashMap;
 import java.util.Map;
